@@ -58,7 +58,7 @@ numero totale delle menzioni diviso il numero totale dei tweets (post)
         "numOfMentions": 0,
         "mentions": {}
     },
-    // ...
+    ...
 ]
 ```
 #### STRUTTURA LISTA JSON
