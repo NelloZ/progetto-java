@@ -58,9 +58,7 @@ numero totale delle menzioni diviso il numero totale dei tweets (post)
         "numOfMentions": 0,
         "mentions": {}
     },
-    .
-    .
-    .
+    \\ ...
 ]
 ```
 #### STRUTTURA LISTA JSON
@@ -78,7 +76,7 @@ Rappresenta gli utenti menzionati
 - `/mentioned`
 
     http://localhost:8080/mentioned?userName=FCBarcelona&userName2=JoanLaportaFCB
-```json
+```
 JoanLaportaFCB e' stato menzionato 2 volte
 ```
 #### STRUTTURA LISTA JSON
