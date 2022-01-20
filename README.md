@@ -58,9 +58,9 @@ numero totale delle menzioni diviso il numero totale dei tweets (post)
         "numOfMentions": 0,
         "mentions": {}
     },
-    ...
 ]
 ```
+> (sono stati presi solo i 2 tweets più recenti)
 #### STRUTTURA LISTA JSON
 - "id":
 Rappresenta l'ID del tweet
